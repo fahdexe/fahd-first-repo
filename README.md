@@ -1,3 +1,3 @@
 # fahd-first-repo
-My first github repo
+My first Git Repository
 Author - Mutalib Ilyas Mohammed
